@@ -1,4 +1,4 @@
 A Implementation of Sudoku in Unity Engine.
 
 Screenshots:
-![Main_Menu](https://github.com/ktoufiquee/Sudoku/assets/59536321/863811ec-3321-43da-a097-cf011d19edd6) ![Game_1](https://github.com/ktoufiquee/Sudoku/assets/59536321/36137e5a-f5d0-4ffb-bd47-2fcbf7bd39dc) ![Game_2](https://github.com/ktoufiquee/Sudoku/assets/59536321/febe84f4-8341-4100-8aa2-cf176564327d)
+![rsz_main_menu](https://github.com/ktoufiquee/Sudoku/assets/59536321/25f924ca-a2c2-4096-bcb3-2f057f97f2f2)
