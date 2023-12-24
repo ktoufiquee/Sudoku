@@ -100,8 +100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86210815aa933549a992c9ab48fea4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColor: {r: 0.15622401, g: 1, b: 0, a: 1}
-  offsetColor: {r: 0.49683487, g: 0.7830189, b: 0.42475083, a: 1}
+  baseColor: {r: 0.48794055, g: 0.8018868, b: 0.7797259, a: 1}
+  offsetColor: {r: 0.28875935, g: 0.5943396, b: 0.54063153, a: 1}
   spriteRenderer: {fileID: 766896007157602726}
   highlight: {fileID: 8164980695238528886}
   emptyTile: {fileID: 8329647984587988237}

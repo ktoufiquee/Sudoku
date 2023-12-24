@@ -29,8 +29,8 @@ public class BoardController : MonoBehaviour
     
     private void Start()
     {
-        // _sudoku = new Board(PlayerPrefs.GetInt("Blanks", 15));
-        _sudoku = new Board(2);
+        _sudoku = new Board(PlayerPrefs.GetInt("Blanks", 15));
+        // _sudoku = new Board(2);
         CalculateScreenWidth();
         
         DisplayBoard();
